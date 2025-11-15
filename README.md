@@ -1,4 +1,4 @@
-Hi there! You're using my color generator app. This is version 1.0.0 so it's a little clunky, but it works!
+Hi there! You're using my color generator app. This is version 1.1.0 so it's a little clunky, but it works!
 
 The file is in the dist file, all you have to do is double click the file and follow the prompts.
 
