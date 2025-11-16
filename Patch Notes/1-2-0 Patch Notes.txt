@@ -1,0 +1,9 @@
+Patch Notes
+
+- Shapes are here!
+
+There are only 2 options, but now you can choose between triangles or rectangles. I'm hoping to add more shapes in further updates
+
+- No longer have to worry about typos or casing for colors!
+
+Other options you still need to make sure that there are no spaces and no capital letters, but colors at least you could make typos or put in capitals and it will work just fine.
