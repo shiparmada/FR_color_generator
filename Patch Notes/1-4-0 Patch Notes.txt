@@ -1,0 +1,11 @@
+Patch Notes
+
+- New Features!
+
+4 new shapes have been added! Pentagons, overlapping pentagons, single line 6 sides, single line 3 sides.
+ Note: The single lines work best for dragon pairings that have really wide color bands
+
+- Adjusted the turtle!
+
+The turtle no longer runs away when it's done but just disappears in a poof of smoke
+ Note: Smoke not included
