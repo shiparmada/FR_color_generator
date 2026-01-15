@@ -1,0 +1,11 @@
+Patch Notes
+
+- New Features!
+A whole new mode!
+Now you can also predict the frequencies of genes in a pair of dragons! Please note that this current only works for modern breeds, I am hoping to get it working for ancient breeds in future updates
+
+New menus!
+There are menus now to help you navigate! Also when you're done with Turtle in color generation, you can now loop around and go again! What fun!
+
+-Fixes
+Fixed some minor typos in the dictionaries

@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['color_generator_1-4-0.py'],
+    ['color_generator_2-0-0.py'],
     pathex=[],
     binaries=[],
     datas=[],
@@ -22,7 +22,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='color_generator_1-4-0',
+    name='color_generator_2-0-0',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
